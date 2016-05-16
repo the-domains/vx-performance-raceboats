@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VX Performance Raceboats.]]></title>
+        <description><![CDATA[VX Performance Raceboats.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 May 2016 13:37:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The worlds best technical one design racing sailboats. Fast, Fun, and Easy.</p>]]></description>
+            <link>undefinedthe-worlds-best-technical-one-design-racing-sailboats-fast/index.html</link>
+            <guid isPermaLink="false">8bfd01eb-f9cf-4752-99b2-2db920bc8686</guid>
+            <pubDate>Mon, 16 May 2016 13:37:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
